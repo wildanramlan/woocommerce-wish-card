@@ -1,0 +1,9 @@
+.custom-message {
+    margin: 15px 0;
+}
+.custom-message textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
